@@ -17,3 +17,9 @@
 - [Overview Owin Katana](http://www.codeguru.com/csharp/.net/net_asp/overview-of-owin-and-katana.htm)
 - [Are You Serving Files Insecurely in ASP.NET](http://www.filipekberg.se/2013/07/12/are-you-serving-files-insecurely-in-asp-net/)
 - [Web API using Tokens](http://blog.developers.ba/asp-net-web-api-authorization-using-tokens/)
+
+##SSL
+- [Moxie Marlinspike SSL Tools](http://www.thoughtcrime.org/software.html)
+
+##Tools
+- [Microsoft Research Telepathwords](https://telepathwords.research.microsoft.com/)
