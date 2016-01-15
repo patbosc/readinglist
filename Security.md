@@ -18,8 +18,7 @@
 - [Are You Serving Files Insecurely in ASP.NET](http://www.filipekberg.se/2013/07/12/are-you-serving-files-insecurely-in-asp-net/)
 - [Web API using Tokens](http://blog.developers.ba/asp-net-web-api-authorization-using-tokens/)
 
-##SSL
-- [Moxie Marlinspike SSL Tools](http://www.thoughtcrime.org/software.html)
-
 ##Tools
 - [Microsoft Research Telepathwords](https://telepathwords.research.microsoft.com/)
+- [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+- [Moxie Marlinspike SSL Tools](http://www.thoughtcrime.org/software.html)
