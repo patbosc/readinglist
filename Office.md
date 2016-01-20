@@ -9,7 +9,8 @@ In this section you will find Links that are Helpfull for integrating Office API
 ###Onedrive
 [Upload File REST API Call](http://graph.microsoft.io/docs/api-reference/v1.0/api/item_uploadcontent)
 
-
+##Skype SDK's
+[Overview Skype for Business SDK's](https://msdn.microsoft.com/en-us/library/mt124990.aspx)
 
 ##Extend
 
