@@ -67,11 +67,11 @@ Since Outlook is a System of it's own here are some usefull outlook things.
 [Overview Skype for Business SDK's](https://msdn.microsoft.com/en-us/library/mt124990.aspx)
 
 #Submission to the Store
-[Naming best Practices / Micorosft Office Store what Titels Names are allowed?](https://msdn.microsoft.com/en-us/library/office/jj635874.aspx)
-[Best Practices](https://dev.office.com/docs/add-ins/design/add-indevelopment-best-practice)
-[Policy Guidance](https://dev.office.com/blogs/Office-Store-Policy-andGuidance-Updates)
+- [Naming best Practices / Micorosft Office Store what Titels Names are allowed?](https://msdn.microsoft.com/en-us/library/office/jj635874.aspx)
+- [Best Practices](https://dev.office.com/docs/add-ins/design/add-indevelopment-best-practice)
+- [Policy Guidance](https://dev.office.com/blogs/Office-Store-Policy-andGuidance-Updates)
 
-[Starbucks - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104380233&sourcecorrid=7cda4969-4691-44a1-9bc2-0424663dd855&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
-[FindTime - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104379803&sourcecorrid=af8847e8-d3ad-48c3-99cf-2b6649e0e7fa&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
+- [Starbucks - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104380233&sourcecorrid=7cda4969-4691-44a1-9bc2-0424663dd855&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
+- [FindTime - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104379803&sourcecorrid=af8847e8-d3ad-48c3-99cf-2b6649e0e7fa&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
 
 http://dev.office.com/docs/add-ins/outlook/troubleshoot-outlook-add-in-activation
