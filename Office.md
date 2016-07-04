@@ -14,7 +14,10 @@ In this section you will find Links that are Helpfull for integrating Office API
 - [Well Known Url](https://login.windows.net/EasySchriftwechselNext.onmicrosoft.com/.well-known/openid-configuration)
 
 ###ADAL
+ 
 - [Azure AD Overview](https://msdn.microsoft.com/en-us/library/azure/dn645542.aspx)
+> Note: Here is how you [add a Directory to your Azure Account](http://www.clemensreijnen.nl/post/2014/07/11/Add-an-existing-Office-365-Azure-Active-Directory-to-your-Azure-Subscription). Very Very Usefull to do [this](https://azure.microsoft.com/en-us/documentation/articles/active-directory-how-subscriptions-associated-directory/).
+- [Here is how to setup the app in Azure AD](https://github.com/OfficeDev/TrainingContent/blob/master/O3653/O3653-1%20Deep%20Dive%20into%20Azure%20AD%20with%20the%20Office%20365%20APIs/Lab.md)
 - [Azure AD Integration](https://msdn.microsoft.com/en-us/library/mt622431.aspx)
 - [Curl Authentication Flow for Dynamics CRM](https://blogs.msdn.microsoft.com/crm/2013/12/12/use-oauth-to-authenticate-with-the-crm-service/)
 - [ADAL SDK Platforms](https://azure.microsoft.com/en-us/documentation/articles/active-directory-authentication-libraries/)
