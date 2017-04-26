@@ -31,9 +31,13 @@ My repository about O365 Contains also a Large section of the Tools I mentioned 
 There is a large section just around AAD. As well as the Graph.
 More Developer Resources[https://azure.microsoft.com/en-us/documentation/articles/active-directory-developers-guide/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-developers-guide/)
 
-Dir Sync (Depricated) and the upgrade to Azure AD Connect.[https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/
-https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnectsync-whatis/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/
-https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnectsync-whatis/)
+Dir Sync (Depricated) and the upgrade to Azure AD Connect:
+- [https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/)
+- [https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnectsync-whatis/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnectsync-whatis/)
+- [https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/)
+- [https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/)
+- [https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnect-dirsync-upgrade-get-started/)
+- [https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnectsync-whatis/](https://azure.microsoft.com/en-us/documentation/articles/active-directory-aadconnectsync-whatis/)
 
 There was a question around customizing the Sync Entities:
 When using legacy Dirsync: [http://social.technet.microsoft.com/wiki/contents/articles/19901.dirsync-list-of-attributes-that-are-synced-by-the-azure-active-directory-sync-tool.aspx](http://social.technet.microsoft.com/wiki/contents/articles/19901.dirsync-list-of-attributes-that-are-synced-by-the-azure-active-directory-sync-tool.aspx)
