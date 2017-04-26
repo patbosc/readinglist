@@ -75,3 +75,25 @@ Since Outlook is a System of it's own here are some usefull outlook things.
 - [FindTime - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104379803&sourcecorrid=af8847e8-d3ad-48c3-99cf-2b6649e0e7fa&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
 
 http://dev.office.com/docs/add-ins/outlook/troubleshoot-outlook-add-in-activation
+
+#Store Validation
+
+Starbucks
+https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false
+Findtime
+https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false
+
+Here are the guidelines:
+https://dev.office.com/officestore/docs/validation-policies
+Seller Dashboard:
+https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store
+
+http://sellerdashboard.microsoft.com
+
+Manifest must Provide Support Link
+Manifest for Outlook or Exchange must Provide Ribbon Integration
+
+Conventions for Brand and Naming:
+https://dev.office.com/officestore/docs/create-effective-office-store-listings
+Validation Policy
+https://dev.office.com/officestore/docs/validation-policies
