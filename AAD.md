@@ -96,5 +96,7 @@ How to add Azure to VSTS Account
 
 [Team Services: Access with Azure Active Directory (Azure AD)](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/manage-organization-access-for-your-account-vs)
 
-Notes from our Meeting:
+How to create ADFS 
+[https://docs.microsoft.com/de-de/windows-server/identity/ad-fs/deployment/ad-fs-deployment-guide](https://docs.microsoft.com/de-de/windows-server/identity/ad-fs/deployment/ad-fs-deployment-guide)
+
 
