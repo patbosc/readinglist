@@ -99,4 +99,8 @@ How to add Azure to VSTS Account
 How to create ADFS 
 [https://docs.microsoft.com/de-de/windows-server/identity/ad-fs/deployment/ad-fs-deployment-guide](https://docs.microsoft.com/de-de/windows-server/identity/ad-fs/deployment/ad-fs-deployment-guide)
 
+Azure Active Directory new Features Build 2017
+[Overview Build 2017](https://blogs.technet.microsoft.com/enterprisemobility/2017/05/10/azure-active-directory-at-microsoft-build-2017/)
 
+New Developer Documentation 2017
+[https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-developers-guide](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-developers-guide)
