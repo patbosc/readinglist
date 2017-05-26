@@ -12,11 +12,15 @@
 
 ##Legend
 - [Adventures in Analayzing Stuxnet](https://www.youtube.com/watch?v=rOwMW6agpTI)
+- [Stuxnet Dossier](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf)
 
 ##ASP.net 
 - [Overview Owin Katana](http://www.codeguru.com/csharp/.net/net_asp/overview-of-owin-and-katana.htm)
 - [Are You Serving Files Insecurely in ASP.NET](http://www.filipekberg.se/2013/07/12/are-you-serving-files-insecurely-in-asp-net/)
 - [Web API using Tokens](http://blog.developers.ba/asp-net-web-api-authorization-using-tokens/)
+- [Token Tutorials](http://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/)
+- [Amazing Labs Claims in Asp.net core from Barry](https://github.com/blowdart/AspNetAuthorizationWorkshop)
+
 
 ##Tools
 - [Microsoft Research Telepathwords](https://telepathwords.research.microsoft.com/)
