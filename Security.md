@@ -26,3 +26,14 @@
 - [Microsoft Research Telepathwords](https://telepathwords.research.microsoft.com/)
 - [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - [Moxie Marlinspike SSL Tools](http://www.thoughtcrime.org/software.html)
+- [pwned](https://haveibeenpwned.com/)
+- [Operations Management Suite](https://docs.microsoft.com/en-us/azure/operations-management-suite/operations-management-suite-overview)
+
+##Web Application Firewall
+- [How to configure WAF](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-app-service-environment-web-application-firewall)
+- [Barracuda WAF - Amazing WAF](https://www.barracuda.com/products/webapplicationfirewall?L=de)
+- [Trendmicro goes Deep](http://apac.trendmicro.com/enterprise/cloud-solutions/deep-security/web-applications/)
+- [Cloudflare](https://www.cloudflare.com/waf/)
+
+##Firewalls in Azure
+- [Hexatier SQL Azure](http://www.hexatier.com/microsoft-sql-azure-database-security-best-practices/)

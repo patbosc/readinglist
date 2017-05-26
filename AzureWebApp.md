@@ -7,9 +7,12 @@
 - [azure web app maintain](http://www.asp.net/aspnet/overview/developing-apps-with-windows-azure/maintainable-azure-websites-managing-change-and-scale)
 
 #Security
+[How to configure WAF](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-app-service-environment-web-application-firewall)
 [Enable Https](https://azure.microsoft.com/en-us/documentation/articles/web-sites-configure-ssl-certificate/)
 [Troy Hunt on Webapps](https://www.troyhunt.com/tag/azure/)
 
+#Advanced
+[App Service Environments](https://docs.microsoft.com/en-us/azure/app-service/app-service-app-service-environments-readme)
 
 #Cheat Sheet
 [Great Website](http://microsoftazurewebsitescheatsheet.info/)
