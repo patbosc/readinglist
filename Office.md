@@ -76,14 +76,18 @@ Since Outlook is a System of it's own here are some usefull outlook things.
 
 http://dev.office.com/docs/add-ins/outlook/troubleshoot-outlook-add-in-activation
 
-#Store Validation
+#Office Store
 
+## Pricing 
+[Some ISVs ask a lot about how to earn money with office add-ins ... details ...](https://dev.office.com/officestore/docs/decide-on-a-pricing-model)
+
+##Best Practices
 Starbucks
 https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false
 Findtime
 https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false
 
-Here are the guidelines:
+##Here are the guidelines:
 https://dev.office.com/officestore/docs/validation-policies
 Seller Dashboard:
 https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store
@@ -93,7 +97,7 @@ http://sellerdashboard.microsoft.com
 Manifest must Provide Support Link
 Manifest for Outlook or Exchange must Provide Ribbon Integration
 
-Conventions for Brand and Naming:
+##Conventions for Brand and Naming:
 https://dev.office.com/officestore/docs/create-effective-office-store-listings
 Validation Policy
 https://dev.office.com/officestore/docs/validation-policies
