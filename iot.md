@@ -14,9 +14,6 @@ IoT Hub
 - [Great Sample for getting started](https://github.com/Microsoft/iot-samples)
 2. Tools
 - [Device Explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer)
-=======
------------------------------------------------
->>>>>>> origin/master
 
 Github Repros
 --------------------------------------------
