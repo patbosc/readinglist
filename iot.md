@@ -4,6 +4,9 @@ This is a Resource collection for IoT Repos and stuff ...
 
 Stream Analytics & Apache Strom
 ---
+1. Tools
+- [Stream Analytic Tools for Visual Studio Article](https://azure.microsoft.com/en-us/blog/azure-stream-analytics-tools-for-visual-studio/)
+- [Stream Analytic Tools for Visual Studio Download](https://www.microsoft.com/en-us/download/details.aspx?id=54630)
 
 IoT Hub
 ---
