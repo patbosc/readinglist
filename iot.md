@@ -1,5 +1,4 @@
 Internet of Things
-<<<<<<< HEAD
 ---
 This is a Resource collection for IoT Repos and stuff ...
 
