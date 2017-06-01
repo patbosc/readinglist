@@ -16,19 +16,21 @@ IoT Hub
 - [Device Explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer)
 
 Github Repros
---------------------------------------------
+---
 - [Robert Eichenseer IoT Masterclass](https://github.com/RobertEichenseer/IoT_MasterClass)
 - [Robert Eichenseer Tessel.io EventHub](https://github.com/RobertEichenseer/TesselEventHubHoL)
 
 Articles
------------------------------------
+---
 
 
 Tools
------------------------------------------
-[Apache Kafka like IoT Hub](https://kafka.apache.org/)
-[Confluent Connectors](https://www.confluent.io/product/connectors/)
-[Kafka Sink Connector](https://github.com/Azure/toketi-kafka-connect-iothub/blob/master/README_Sink.md)
+---
+- [Apache Kafka like IoT Hub](https://kafka.apache.org/)
+- [Confluent Connectors](https://www.confluent.io/product/connectors/)
+- [Kafka Sink Connector](https://github.com/Azure/toketi-kafka-connect-iothub/blob/master/README_Sink.md)
+- [Kibana](https://www.elastic.co/de/products/kibana)
+- [Kibana on Github](https://github.com/elastic/kibana)
 
 Electronics
 
