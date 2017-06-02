@@ -19,3 +19,5 @@ Ever thought about Reverse Eng the Windows Phone Marketplace well someone did
 Windows ETW
 ---
 Thank you Immo :) [Github Repo with sample for ETW](https://github.com/Microsoft/dotnet-samples/blob/master/Microsoft.Diagnostics.Tracing/EventSource/EventSource/10_MinimalEventSource.cs)
+[ETW Reference](https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Components.PostAttachments/00/10/44/08/22/_EventSourceUsersGuide.docx)
+[ETW Spec](https://blogs.msdn.microsoft.com/vancem/2012/07/09/the-specification-for-the-system-diagnostics-tracing-eventsource-class/)
