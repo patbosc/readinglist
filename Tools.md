@@ -20,3 +20,10 @@ REST Tools
 ------------------------------------------------------
 - [Postman](https://www.getpostman.com/)
 - [Swagger](http://swagger.io/tools/)
+
+Debugging
+---------------------------------------------------------
+- [Log Parser Studio](https://gallery.technet.microsoft.com/Log-Parser-Studio-cd458765)
+- [WinDbg](https://developer.microsoft.com/en-us/windows/hardware/download-windbg)
+- [WinDbg - Extensions and Howto](http://www.windbg.org/)
+- [Kdbg](http://www.kdbg.org/)
