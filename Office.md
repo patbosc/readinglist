@@ -83,30 +83,7 @@ Submission to the Store
 - [Validation Policies v2.0](https://dev.office.com/officestore/docs/validation-policies)
 Sections in your submission fail report will reference this article.
 
-- [Starbucks - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104380233&sourcecorrid=7cda4969-4691-44a1-9bc2-0424663dd855&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
-- [FindTime - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104379803&sourcecorrid=af8847e8-d3ad-48c3-99cf-2b6649e0e7fa&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
-
 http://dev.office.com/docs/add-ins/outlook/troubleshoot-outlook-add-in-activation
-
-
-Office Store
----
-
-Pricing
--- 
-[Some ISVs ask a lot about how to earn money with office add-ins ... details ...](https://dev.office.com/officestore/docs/decide-on-a-pricing-model)
-
-How to use the Seller Dashboard
---
-- [Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
-
-- [Update and Unpublish Metrics in Seller Dashboard](https://dev.office.com/officestore/docs/update-unpublish-and-view-metrics)
-
-Best Practices
---
-- [Starbucks](https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
-- [Findtime](https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
-
 
 Privacy and Security
 --
@@ -127,7 +104,22 @@ Additional Things to check:
 - Manifest must Provide Support Link
 - Manifest for Outlook or Exchange must Provide Ribbon Integration
 
-Conventions for Brand and Naming:
+Best Practices
 --
-https://dev.office.com/officestore/docs/create-effective-office-store-listings
+- [Starbucks](https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
+- [Findtime](https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
+
+Office Store
+---
+
+Pricing
+-- 
+[Some ISVs ask a lot about how to earn money with office add-ins ... details ...](https://dev.office.com/officestore/docs/decide-on-a-pricing-model)
+
+How to use the Seller Dashboard
+--
+- [Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
+
+- [Update and Unpublish Metrics in Seller Dashboard](https://dev.office.com/officestore/docs/update-unpublish-and-view-metrics)
+
 
