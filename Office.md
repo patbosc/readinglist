@@ -88,6 +88,7 @@ Sections in your submission fail report will reference this article.
 
 http://dev.office.com/docs/add-ins/outlook/troubleshoot-outlook-add-in-activation
 
+
 Office Store
 ---
 
@@ -95,10 +96,16 @@ Pricing
 -- 
 [Some ISVs ask a lot about how to earn money with office add-ins ... details ...](https://dev.office.com/officestore/docs/decide-on-a-pricing-model)
 
+How to use the Seller Dashboard
+--
+- [Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
+
+- [Update and Unpublish Metrics in Seller Dashboard](https://dev.office.com/officestore/docs/update-unpublish-and-view-metrics)
+
 Best Practices
 --
-[Starbucks](https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
-[Findtime](https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
+- [Starbucks](https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
+- [Findtime](https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
 
 
 Privacy and Security
@@ -115,13 +122,10 @@ Here is the Github Repo of the Validation Policies
 
 - [Submission Process on GitHub](https://github.com/OfficeDev/office-store-docs/blob/master/docs/use-the-seller-dashboard-to-submit-to-the-office-store.md)
 
-- [Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
+Additional Things to check:
 
-- [Update and Unpublish Metrics in Seller Dashboard](https://dev.office.com/officestore/docs/update-unpublish-and-view-metrics)
-
-
-Manifest must Provide Support Link
-Manifest for Outlook or Exchange must Provide Ribbon Integration
+- Manifest must Provide Support Link
+- Manifest for Outlook or Exchange must Provide Ribbon Integration
 
 Conventions for Brand and Naming:
 --
