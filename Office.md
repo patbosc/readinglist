@@ -107,8 +107,10 @@ Here are the guidelines:
 [Validation Policies v2.0](https://dev.office.com/officestore/docs/validation-policies)
 Sections in your submission fail report will reference this article.
 
-Seller Dashboard:
-https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store
+Here is the Github Repo of the Validation Policies
+[Validation Policies v2.0 on Github](https://github.com/OfficeDev/office-store-docs/blob/master/docs/use-the-seller-dashboard-to-submit-to-the-office-store.md)
+
+[Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
 
 http://sellerdashboard.microsoft.com
 
