@@ -65,7 +65,7 @@ Manifest
 
 > Note: that the Manifest does not support &amp 
 
-- [Validate Manifest before Submission](https://www.microsoft.com/en-us/download/details.aspx?id=46831)
+- [Validate Manifest before Submission with ](https://www.microsoft.com/en-us/download/details.aspx?id=46831)
 
 Random
 ---
@@ -80,6 +80,8 @@ Submission to the Store
 - [Naming best Practices / Micorosft Office Store what Titels Names are allowed?](https://msdn.microsoft.com/en-us/library/office/jj635874.aspx)
 - [Best Practices](https://dev.office.com/docs/add-ins/design/add-indevelopment-best-practice)
 - [Policy Guidance](https://dev.office.com/blogs/Office-Store-Policy-and-Guidance-Updates)
+- [Validation Policies v2.0](https://dev.office.com/officestore/docs/validation-policies)
+Sections in your submission fail report will reference this article.
 
 - [Starbucks - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104380233&sourcecorrid=7cda4969-4691-44a1-9bc2-0424663dd855&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
 - [FindTime - Best Practices](https://store.office.com/en-001/app.aspx?assetid=WA104379803&sourcecorrid=af8847e8-d3ad-48c3-99cf-2b6649e0e7fa&searchapppos=0&ui=en-US&rs=en-001&ad=US&appredirect=false)
@@ -109,14 +111,13 @@ Here are the guidelines:
 Sections in your submission fail report will reference this article.
 
 Here is the Github Repo of the Validation Policies
-[Validation Policies v2.0 on Github](https://github.com/OfficeDev/office-store-docs/blob/master/docs/validation-policies.md)
+- [Validation Policies v2.0 on Github](https://github.com/OfficeDev/office-store-docs/blob/master/docs/validation-policies.md)
 
-[Submission Process on GitHub]
-(https://github.com/OfficeDev/office-store-docs/blob/master/docs/use-the-seller-dashboard-to-submit-to-the-office-store.md)
+- [Submission Process on GitHub](https://github.com/OfficeDev/office-store-docs/blob/master/docs/use-the-seller-dashboard-to-submit-to-the-office-store.md)
 
-[Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
+- [Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
 
-[Update and Unpublish Metrics in Seller Dashboard](https://dev.office.com/officestore/docs/update-unpublish-and-view-metrics)
+- [Update and Unpublish Metrics in Seller Dashboard](https://dev.office.com/officestore/docs/update-unpublish-and-view-metrics)
 
 
 Manifest must Provide Support Link
