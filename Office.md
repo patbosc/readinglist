@@ -93,10 +93,9 @@ Pricing
 
 Best Practices
 --
-Starbucks
-https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false
-Findtime
-https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false
+[Starbucks](https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf4-fe31-4140-b9c3-86792507933d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
+[Findtime](https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false)
+
 
 Privacy and Security
 --
