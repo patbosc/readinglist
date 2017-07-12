@@ -98,6 +98,10 @@ https://store.office.com/en-us/app.aspx?assetid=WA104380233&sourcecorrid=f88a9bf
 Findtime
 https://store.office.com/en-us/app.aspx?assetid=WA104379803&sourcecorrid=4d74136c-afc7-482c-915c-9049958af42d&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false
 
+Privacy and Security
+--
+[dev.office.com](https://dev.office.com/docs/add-ins/develop/privacy-and-security)
+
 Here are the guidelines:
 --
 https://dev.office.com/officestore/docs/validation-policies
