@@ -65,7 +65,7 @@ Manifest
 
 > Note: that the Manifest does not support &amp 
 
-- [Validate Manifest before Submission with ](https://www.microsoft.com/en-us/download/details.aspx?id=46831)
+- [Validate Manifest before Submission with Office App Compatibility Kit ](https://www.microsoft.com/en-us/download/details.aspx?id=46831)
 
 Random
 ---
@@ -103,11 +103,11 @@ Best Practices
 
 Privacy and Security
 --
-[dev.office.com](https://dev.office.com/docs/add-ins/develop/privacy-and-security)
+- [dev.office.com](https://dev.office.com/docs/add-ins/develop/privacy-and-security)
 
 Here are the guidelines:
 --
-[Validation Policies v2.0](https://dev.office.com/officestore/docs/validation-policies)
+- [Validation Policies v2.0](https://dev.office.com/officestore/docs/validation-policies)
 Sections in your submission fail report will reference this article.
 
 Here is the Github Repo of the Validation Policies
