@@ -111,7 +111,8 @@ Here is the Github Repo of the Validation Policies
 
 [Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
 
-http://sellerdashboard.microsoft.com
+[Update and Unpublish Metrics in Seller Dashboard](https://dev.office.com/officestore/docs/update-unpublish-and-view-metrics)
+
 
 Manifest must Provide Support Link
 Manifest for Outlook or Exchange must Provide Ribbon Integration
@@ -119,5 +120,4 @@ Manifest for Outlook or Exchange must Provide Ribbon Integration
 Conventions for Brand and Naming:
 --
 https://dev.office.com/officestore/docs/create-effective-office-store-listings
-Validation Policy
-https://dev.office.com/officestore/docs/validation-policies
+
