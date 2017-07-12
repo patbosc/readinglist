@@ -65,6 +65,8 @@ Manifest
 
 > Note: that the Manifest does not support &amp 
 
+- [Validate Manifest before Submission](https://www.microsoft.com/en-us/download/details.aspx?id=46831)
+
 Random
 ---
 [Blog Post from Richard about Office Identity Crisis - Extremly helpfull with Outlook Add-Ins](http://blogs.msdn.com/b/richard_dizeregas_blog/archive/2015/08/10/connecting-to-office-365-from-an-office-add-in.aspx)
@@ -107,7 +109,10 @@ Here are the guidelines:
 Sections in your submission fail report will reference this article.
 
 Here is the Github Repo of the Validation Policies
-[Validation Policies v2.0 on Github](https://github.com/OfficeDev/office-store-docs/blob/master/docs/use-the-seller-dashboard-to-submit-to-the-office-store.md)
+[Validation Policies v2.0 on Github](https://github.com/OfficeDev/office-store-docs/blob/master/docs/validation-policies.md)
+
+[Submission Process on GitHub]
+(https://github.com/OfficeDev/office-store-docs/blob/master/docs/use-the-seller-dashboard-to-submit-to-the-office-store.md)
 
 [Seller Dashboard](https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store)
 
