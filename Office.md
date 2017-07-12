@@ -104,7 +104,9 @@ Privacy and Security
 
 Here are the guidelines:
 --
-https://dev.office.com/officestore/docs/validation-policies
+[Validation Policies v2.0](https://dev.office.com/officestore/docs/validation-policies)
+Sections in your submission fail report will reference this article.
+
 Seller Dashboard:
 https://dev.office.com/officestore/docs/use-the-seller-dashboard-to-submit-to-the-office-store
 
