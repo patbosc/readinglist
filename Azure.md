@@ -32,3 +32,8 @@ Stream Analytics
 On Premise 
 ---
 -[Stream Insight](https://msdn.microsoft.com/en-us/library/ee362541(v=sql.111).aspx)
+
+Not Official but awesome
+---
+
+- [Azure Interactive](https://azureplatform.azurewebsites.net/de-de/)
