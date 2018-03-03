@@ -37,3 +37,6 @@
 
 ##Firewalls in Azure
 - [Hexatier SQL Azure](http://www.hexatier.com/microsoft-sql-azure-database-security-best-practices/)
+
+##Information Site
+- [OWASP - The Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
