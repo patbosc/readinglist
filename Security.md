@@ -21,6 +21,8 @@
 - [Token Tutorials](http://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/)
 - [Amazing Labs Claims in Asp.net core from Barry](https://github.com/blowdart/AspNetAuthorizationWorkshop)
 
+##SQL
+- [SQL Transparent Data Encryption](https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption)
 
 ##Tools
 - [Microsoft Research Telepathwords](https://telepathwords.research.microsoft.com/)
@@ -40,3 +42,16 @@
 
 ##Information Site
 - [OWASP - The Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
+
+##Microsoft Data Classification
+- [Data classification for cloud readiness ](https://gallery.technet.microsoft.com/Data-Classification-for-51252f03)
+
+##Goverment Requests on Microsoft 
+- [Microsoft Corporate Responsibility explained](https://www.microsoft.com/en-us/about/corporate-responsibility/lerr)
+- [Request Statistics](https://www.microsoft.com/en-us/trustcenter/privacy/govt-requests-for-data)
+
+##GDPR
+- [Microsoft Trust Center on GDPR](https://www.microsoft.com/de-de/trustcenter/privacy/gdpr/resources#whitepapers)
+
+
+
