@@ -15,3 +15,7 @@ ReVerC, will produce the same output for every input. Furthermore, it is
 formally verified that any ancilla bits used by the compiler are correctly 
 cleaned and returned to the pool of 0-initialized ancillas.
 [ReVerC](https://github.com/msr-quarc/ReVerC)
+
+EdX Quantum Computing Course
+---
+[Quantum Mechanics - Georgetown](https://www.edx.org/course/quantum-mechanics-everyone-georgetownx-phyx-008-01x?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_student_active_20180227)
