@@ -28,11 +28,19 @@ ARM Stuff
 - [Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
 - [Direct Link to your subscriptions ARM Template]()
 
-- [Deploy to Azure Button]()
+- [ARM Explorer direct link to sf cluster template - I use it as quicklink :)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.servicefabric%2Fservice-fabric-secure-cluster-5-node-1-nodetype%2Fazuredeploy.json)
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fquickstarts%2Fmicrosoft.storage%2Fstorage-account-create%2Fazuredeploy.json)
+
+- [More Information about the Deploy to Azure Button.](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-azure-button)
 
 Trainings
 ---
 - [Learn Azure (Marketing I guess)](https://docs.microsoft.com/en-us/learn/azure/)
+
+Services you should know more about
+---
+- [@patbosc on Service Fabric](https://github.com/patbosc/readinglist/blob/master/ServiceFabric.md)
 
 Azure Storage
 ---

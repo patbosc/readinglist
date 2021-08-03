@@ -1,6 +1,6 @@
 # Readinglist
 
-I started the readinglist way back ... And it surfed me well. I took the time and updated it form time to time. 
+I started the readinglist way back ... And it served me well. I took the time and updated it form time to time. 
 
 Now in 2021 I decided to finally fix most of the glitter and update it. 
 
