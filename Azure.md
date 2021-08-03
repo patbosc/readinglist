@@ -23,7 +23,10 @@ Retired no longer available
 
 ARM Stuff
 ---
+
+- [The fancy old ARM Explorer I always forget](https://resources.azure.com/)
 - [Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+- [Direct Link to your subscriptions ARM Template]()
 
 - [Deploy to Azure Button]()
 
@@ -31,17 +34,20 @@ Trainings
 ---
 - [Learn Azure (Marketing I guess)](https://docs.microsoft.com/en-us/learn/azure/)
 
-Service Bus
---
-
-
-Notifications Hub
---
-- [Add Push Notifications to Asp.net MVC Web API](https://azure.microsoft.com/en-us/documentation/articles/notification-hubs-aspnet-backend-windows-dotnet-notify-users/)
+Azure Storage
+---
+- [Microsoft Storage Explorer Desktop App](https://azure.microsoft.com/en-us/features/storage-explorer/#features)
+- [Azurite - Local Storage Emulator for Developers, my team owned once](https://github.com/Azure/Azurite)
+- [Cerebrata 3Party Storage Manager - cerulean](https://www.cerebrata.com/products/cerulean/features/azure-storage)
+- [3rd Party "Azure Storage Explorer" is now maintained by monzacloud](https://monzacloud.com/Azure-Cloud-Explorer/)
 
 Azure Files
 --
 - [Azure Files](https://www.petri.com/configure-a-file-share-using-azure-files)
+
+Notifications Hub
+--
+- [Add Push Notifications to Asp.net MVC Web API](https://azure.microsoft.com/en-us/documentation/articles/notification-hubs-aspnet-backend-windows-dotnet-notify-users/)
 
 Azure and VSTS you need this link
 --

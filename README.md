@@ -4,13 +4,15 @@ I started the readinglist way back ... And it surfed me well. I took the time an
 
 Now in 2021 I decided to finally fix most of the glitter and update it. 
 
+[Azure](Azure.md)
+---
+The Azurelist, a ultimate awesome amazing super awesome curated list of azure resources.  
+
+... I used to work as TE on Azure ... So i know a lot of TSP, SSP, PDM, CSA and PTS will love this list.
+
 [Office Developer Stuff goes here](Office.md)
 ---
 I have been working with Microsoft Graph from day one, in different rings and teams calling api from day one. So yes, ... you can imagine ...
-
-[Azure](Azure.md)
----
-The Azure Dropfile, I guess it is a good start. 
 
 [C#](CSharp.md)
 ---
