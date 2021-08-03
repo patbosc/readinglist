@@ -1,6 +1,36 @@
 Azure
 -----------------------------------------
 
+Basic Azure Stuff
+---
+
+- [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+- [like the periodic table of azure services](https://azurecharts.com/overview)
+- [Azure Changelog](https://azure.microsoft.com/en-us/updates/)
+- [Azure Subreddit](https://www.reddit.com/r/AZURE/)
+- [Azure @Stackoverflow Filter](https://stackoverflow.com/questions/tagged/azure)
+- [Since I am german here is the trust center](https://www.microsoft.com/en-us/trust-center)
+- [The Azure Blog](https://azure.microsoft.com/da-dk/blog/)
+- [Azure Services Availability by region](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=all)
+- [Compare Prices](https://azureprice.net/)
+- [Azure Price Calculator](https://azure.microsoft.com/en-us/pricing/calculator)
+- [SLA (Service Level Agreement)](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
+
+Retired no longer available
+--
+- [Azure Datacenter map](https://azuredatacentermap.azurewebsites.net/)
+- [Azure Interactive](https://azureplatform.azurewebsites.net/de-de/)
+
+ARM Stuff
+---
+- [Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+
+- [Deploy to Azure Button]()
+
+Trainings
+---
+- [Learn Azure (Marketing I guess)](https://docs.microsoft.com/en-us/learn/azure/)
+
 Service Bus
 --
 
@@ -31,9 +61,4 @@ Stream Analytics
 
 On Premise 
 ---
--[Stream Insight](https://msdn.microsoft.com/en-us/library/ee362541(v=sql.111).aspx)
-
-Not Official but awesome
----
-
-- [Azure Interactive](https://azureplatform.azurewebsites.net/de-de/)
+- [Stream Insight](https://msdn.microsoft.com/en-us/library/ee362541(v=sql.111).aspx)
